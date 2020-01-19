@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{437DFFD2-E9DA-422E-A981-D8C9B1080C60}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Notes/Controllers/HomeController.cs" Line="126" Column="1" />
+      <File FileName="Notes/Views/Home/Index.cshtml" Line="12" Column="37" />
+      <File FileName="Notes/Models/Note.cs" />
+      <File FileName="Notes/Views/Home/Create.cshtml" Line="3" Column="1" />
+      <File FileName="Notes/Views/Home/Edit.cshtml" />
+      <File FileName="Notes/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Notes/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Notes" expanded="True">
+            <Node name="Notes" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Notes PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

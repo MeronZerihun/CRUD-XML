@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<notes>
+    <note>
+        <id>1</id>
+        <title> Call Meksi</title>
+        <body> Inform her about the meeting </body>
+    </note>
+     <note>
+        <id>2</id>
+        <title> Send email</title>
+        <body> Email assignments on Tuesday</body>
+    </note>
+</notes>

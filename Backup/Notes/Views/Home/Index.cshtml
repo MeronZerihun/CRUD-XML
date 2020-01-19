@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Notes.Models.Note>
+
+@{
+    ViewBag.Title = "Notes";
+}
+<h2>My Quote</h2>
+
+@foreach (var note in Model)
+    {
+        <div class="jumbotron">
+            <h1 class="display-4"> @note["title"].InnerText </h1>
+            <footer class="blockquote-footer"><cite title="Source Title"> @note["body"].InnerText </cite></footer>
+           
+            <br>
+            <a href="@Url.Action("Edit","Home",new{ id = note.id})" class="btn btn-secondary">Edit</a>
+            <a href="@Url.Action("Delete","Home",new{ id = note.id})" class="btn btn-danger">Delete</a>
+        </div>
+    }
